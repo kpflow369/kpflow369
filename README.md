@@ -23,22 +23,11 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kpflow369&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpflow369&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpflow369&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/) (add your profile)
-- 📧 Email: *your-email@example.com* (add your real one)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khushi-patil-810279288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 Email: khushipatil187@gmail.com
 - 🌐 Portfolio: *coming soon...*
 
 ---
