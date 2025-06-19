@@ -3,7 +3,7 @@
 🚀 Passionate CS/IT undergrad 💡  
 🌱 Exploring full stack development, DSA, and AI  
 📚 Currently learning: Java, C, C++, Python  
-🎯 Goal: ₹2Cr+ placement by 2029  
+🎯 Goal: Learning daily. Growing fast. Building smart.
 
 ---
 
